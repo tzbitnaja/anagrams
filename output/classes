@@ -1,0 +1,12 @@
+dict1: 67605 classes
+dict2: 320750 classes
+
+there are 8 classes in dict1 that are >5 in length:
+[elva, lave, leva, vale, veal, vela]
+[aril, lair, liar, lira, rail, rial]
+[luster, lustre, result, rustle, sutler, ulster]
+[caret, cater, crate, react, recta, trace]
+[leapt, lepta, palet, petal, plate, pleat]
+[least, setal, slate, stale, steal, stela, teals]
+[reins, resin, rinse, risen, serin, siren]
+[ardeb, barde, beard, bread, debar, debra]
